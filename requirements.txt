@@ -1,0 +1,6 @@
+# Track A (sandbox) pinned versions, recorded at repo init 2026-08-14.
+numpy==2.4.4
+scipy==1.17.1
+pandas==3.0.2
+matplotlib==3.10.8
+torch==2.13.0
