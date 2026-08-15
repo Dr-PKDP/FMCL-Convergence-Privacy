@@ -1,0 +1,298 @@
+{
+  "n_rows": 192,
+  "n_configs": 24,
+  "n_testable_rows": 180,
+  "n_degenerate_rows": 12,
+  "zero_false_negative_violations": 0,
+  "violation_rows": [],
+  "conservatism_by_config": [
+    {
+      "d": 10,
+      "eps_p": 2.0,
+      "conversion": "basic",
+      "smallest_tested_N": 500,
+      "largest_tested_N": 20000,
+      "empirical_feasibility_boundary_N": 500,
+      "theorem2_predicted_feasibility_boundary_N": 500,
+      "note": "Theorem-2-predicted boundary among TESTED N is a lower bound only where its true crossover falls below the smallest tested N or above the largest -- see e3_summary.json for exact bisected N* from E1 for comparison at matched (d, eps_p)."
+    },
+    {
+      "d": 10,
+      "eps_p": 2.0,
+      "conversion": "pathA",
+      "smallest_tested_N": 500,
+      "largest_tested_N": 20000,
+      "empirical_feasibility_boundary_N": 500,
+      "theorem2_predicted_feasibility_boundary_N": 500,
+      "note": "Theorem-2-predicted boundary among TESTED N is a lower bound only where its true crossover falls below the smallest tested N or above the largest -- see e3_summary.json for exact bisected N* from E1 for comparison at matched (d, eps_p)."
+    },
+    {
+      "d": 10,
+      "eps_p": 4.0,
+      "conversion": "basic",
+      "smallest_tested_N": 200,
+      "largest_tested_N": 20000,
+      "empirical_feasibility_boundary_N": 200,
+      "theorem2_predicted_feasibility_boundary_N": 200,
+      "note": "Theorem-2-predicted boundary among TESTED N is a lower bound only where its true crossover falls below the smallest tested N or above the largest -- see e3_summary.json for exact bisected N* from E1 for comparison at matched (d, eps_p)."
+    },
+    {
+      "d": 10,
+      "eps_p": 4.0,
+      "conversion": "pathA",
+      "smallest_tested_N": 200,
+      "largest_tested_N": 20000,
+      "empirical_feasibility_boundary_N": 200,
+      "theorem2_predicted_feasibility_boundary_N": 200,
+      "note": "Theorem-2-predicted boundary among TESTED N is a lower bound only where its true crossover falls below the smallest tested N or above the largest -- see e3_summary.json for exact bisected N* from E1 for comparison at matched (d, eps_p)."
+    },
+    {
+      "d": 10,
+      "eps_p": 8.0,
+      "conversion": "basic",
+      "smallest_tested_N": 200,
+      "largest_tested_N": 20000,
+      "empirical_feasibility_boundary_N": 200,
+      "theorem2_predicted_feasibility_boundary_N": 200,
+      "note": "Theorem-2-predicted boundary among TESTED N is a lower bound only where its true crossover falls below the smallest tested N or above the largest -- see e3_summary.json for exact bisected N* from E1 for comparison at matched (d, eps_p)."
+    },
+    {
+      "d": 10,
+      "eps_p": 8.0,
+      "conversion": "pathA",
+      "smallest_tested_N": 200,
+      "largest_tested_N": 20000,
+      "empirical_feasibility_boundary_N": 200,
+      "theorem2_predicted_feasibility_boundary_N": 200,
+      "note": "Theorem-2-predicted boundary among TESTED N is a lower bound only where its true crossover falls below the smallest tested N or above the largest -- see e3_summary.json for exact bisected N* from E1 for comparison at matched (d, eps_p)."
+    },
+    {
+      "d": 10,
+      "eps_p": 16.0,
+      "conversion": "basic",
+      "smallest_tested_N": 200,
+      "largest_tested_N": 20000,
+      "empirical_feasibility_boundary_N": null,
+      "theorem2_predicted_feasibility_boundary_N": 200,
+      "note": "Theorem-2-predicted boundary among TESTED N is a lower bound only where its true crossover falls below the smallest tested N or above the largest -- see e3_summary.json for exact bisected N* from E1 for comparison at matched (d, eps_p)."
+    },
+    {
+      "d": 10,
+      "eps_p": 16.0,
+      "conversion": "pathA",
+      "smallest_tested_N": 200,
+      "largest_tested_N": 20000,
+      "empirical_feasibility_boundary_N": 500,
+      "theorem2_predicted_feasibility_boundary_N": 200,
+      "note": "Theorem-2-predicted boundary among TESTED N is a lower bound only where its true crossover falls below the smallest tested N or above the largest -- see e3_summary.json for exact bisected N* from E1 for comparison at matched (d, eps_p)."
+    },
+    {
+      "d": 100,
+      "eps_p": 2.0,
+      "conversion": "basic",
+      "smallest_tested_N": 3000,
+      "largest_tested_N": 15000,
+      "empirical_feasibility_boundary_N": 3000,
+      "theorem2_predicted_feasibility_boundary_N": 3000,
+      "note": "Theorem-2-predicted boundary among TESTED N is a lower bound only where its true crossover falls below the smallest tested N or above the largest -- see e3_summary.json for exact bisected N* from E1 for comparison at matched (d, eps_p)."
+    },
+    {
+      "d": 100,
+      "eps_p": 2.0,
+      "conversion": "pathA",
+      "smallest_tested_N": 6000,
+      "largest_tested_N": 15000,
+      "empirical_feasibility_boundary_N": null,
+      "theorem2_predicted_feasibility_boundary_N": 6000,
+      "note": "Theorem-2-predicted boundary among TESTED N is a lower bound only where its true crossover falls below the smallest tested N or above the largest -- see e3_summary.json for exact bisected N* from E1 for comparison at matched (d, eps_p)."
+    },
+    {
+      "d": 100,
+      "eps_p": 4.0,
+      "conversion": "basic",
+      "smallest_tested_N": 1000,
+      "largest_tested_N": 15000,
+      "empirical_feasibility_boundary_N": null,
+      "theorem2_predicted_feasibility_boundary_N": 1000,
+      "note": "Theorem-2-predicted boundary among TESTED N is a lower bound only where its true crossover falls below the smallest tested N or above the largest -- see e3_summary.json for exact bisected N* from E1 for comparison at matched (d, eps_p)."
+    },
+    {
+      "d": 100,
+      "eps_p": 4.0,
+      "conversion": "pathA",
+      "smallest_tested_N": 3000,
+      "largest_tested_N": 15000,
+      "empirical_feasibility_boundary_N": null,
+      "theorem2_predicted_feasibility_boundary_N": 3000,
+      "note": "Theorem-2-predicted boundary among TESTED N is a lower bound only where its true crossover falls below the smallest tested N or above the largest -- see e3_summary.json for exact bisected N* from E1 for comparison at matched (d, eps_p)."
+    },
+    {
+      "d": 100,
+      "eps_p": 8.0,
+      "conversion": "basic",
+      "smallest_tested_N": 1000,
+      "largest_tested_N": 15000,
+      "empirical_feasibility_boundary_N": null,
+      "theorem2_predicted_feasibility_boundary_N": 1000,
+      "note": "Theorem-2-predicted boundary among TESTED N is a lower bound only where its true crossover falls below the smallest tested N or above the largest -- see e3_summary.json for exact bisected N* from E1 for comparison at matched (d, eps_p)."
+    },
+    {
+      "d": 100,
+      "eps_p": 8.0,
+      "conversion": "pathA",
+      "smallest_tested_N": 1000,
+      "largest_tested_N": 15000,
+      "empirical_feasibility_boundary_N": null,
+      "theorem2_predicted_feasibility_boundary_N": 1000,
+      "note": "Theorem-2-predicted boundary among TESTED N is a lower bound only where its true crossover falls below the smallest tested N or above the largest -- see e3_summary.json for exact bisected N* from E1 for comparison at matched (d, eps_p)."
+    },
+    {
+      "d": 100,
+      "eps_p": 16.0,
+      "conversion": "basic",
+      "smallest_tested_N": 1000,
+      "largest_tested_N": 15000,
+      "empirical_feasibility_boundary_N": null,
+      "theorem2_predicted_feasibility_boundary_N": 1000,
+      "note": "Theorem-2-predicted boundary among TESTED N is a lower bound only where its true crossover falls below the smallest tested N or above the largest -- see e3_summary.json for exact bisected N* from E1 for comparison at matched (d, eps_p)."
+    },
+    {
+      "d": 100,
+      "eps_p": 16.0,
+      "conversion": "pathA",
+      "smallest_tested_N": 1000,
+      "largest_tested_N": 15000,
+      "empirical_feasibility_boundary_N": null,
+      "theorem2_predicted_feasibility_boundary_N": 1000,
+      "note": "Theorem-2-predicted boundary among TESTED N is a lower bound only where its true crossover falls below the smallest tested N or above the largest -- see e3_summary.json for exact bisected N* from E1 for comparison at matched (d, eps_p)."
+    }
+  ],
+  "gap_over_theory_ratio_stats": {
+    "n": 180,
+    "min": 0.4715866498680326,
+    "median": 2.1560113240648375,
+    "max": 4.608503231274264
+  },
+  "frac_updates_clipped_by_config": [
+    {
+      "d": 10,
+      "N": 200,
+      "frac_clipped": 0.785
+    },
+    {
+      "d": 10,
+      "N": 200,
+      "frac_clipped": 0.835
+    },
+    {
+      "d": 10,
+      "N": 500,
+      "frac_clipped": 0.844
+    },
+    {
+      "d": 10,
+      "N": 500,
+      "frac_clipped": 0.852
+    },
+    {
+      "d": 10,
+      "N": 1000,
+      "frac_clipped": 0.879
+    },
+    {
+      "d": 10,
+      "N": 1000,
+      "frac_clipped": 0.883
+    },
+    {
+      "d": 10,
+      "N": 2000,
+      "frac_clipped": 0.868
+    },
+    {
+      "d": 10,
+      "N": 2000,
+      "frac_clipped": 0.8805
+    },
+    {
+      "d": 10,
+      "N": 5000,
+      "frac_clipped": 0.8676
+    },
+    {
+      "d": 10,
+      "N": 5000,
+      "frac_clipped": 0.8904
+    },
+    {
+      "d": 10,
+      "N": 10000,
+      "frac_clipped": 0.8863
+    },
+    {
+      "d": 10,
+      "N": 10000,
+      "frac_clipped": 0.8876
+    },
+    {
+      "d": 10,
+      "N": 20000,
+      "frac_clipped": 0.8759
+    },
+    {
+      "d": 10,
+      "N": 20000,
+      "frac_clipped": 0.879
+    },
+    {
+      "d": 100,
+      "N": 1000,
+      "frac_clipped": 0.942
+    },
+    {
+      "d": 100,
+      "N": 1000,
+      "frac_clipped": 0.963
+    },
+    {
+      "d": 100,
+      "N": 3000,
+      "frac_clipped": 0.9603333333333334
+    },
+    {
+      "d": 100,
+      "N": 3000,
+      "frac_clipped": 0.9633333333333334
+    },
+    {
+      "d": 100,
+      "N": 6000,
+      "frac_clipped": 0.9691666666666666
+    },
+    {
+      "d": 100,
+      "N": 6000,
+      "frac_clipped": 0.9726666666666667
+    },
+    {
+      "d": 100,
+      "N": 10000,
+      "frac_clipped": 0.9762
+    },
+    {
+      "d": 100,
+      "N": 10000,
+      "frac_clipped": 0.9763
+    },
+    {
+      "d": 100,
+      "N": 15000,
+      "frac_clipped": 0.9704666666666667
+    },
+    {
+      "d": 100,
+      "N": 15000,
+      "frac_clipped": 0.9732666666666666
+    }
+  ]
+}

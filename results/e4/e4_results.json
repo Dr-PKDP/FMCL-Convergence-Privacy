@@ -1,0 +1,244 @@
+{
+  "check1_2": [
+    {
+      "p": 0.1,
+      "lam": 0.0,
+      "mean_b_over_history": 0.0,
+      "lemma_e4_1_holds": true,
+      "max_beta_observed": 0.0,
+      "mean_beta_observed": 0.0,
+      "lemma_e4_2_bound": 0.0,
+      "lemma_e4_2_holds": true
+    },
+    {
+      "p": 0.1,
+      "lam": 0.1,
+      "mean_b_over_history": 3.469446951953614e-18,
+      "lemma_e4_1_holds": true,
+      "max_beta_observed": 0.05198931177395389,
+      "mean_beta_observed": 0.019992679597463522,
+      "lemma_e4_2_bound": 1.0,
+      "lemma_e4_2_holds": true
+    },
+    {
+      "p": 0.1,
+      "lam": 0.2,
+      "mean_b_over_history": 1.0408340855860843e-17,
+      "lemma_e4_1_holds": true,
+      "max_beta_observed": 0.0884078561146087,
+      "mean_beta_observed": 0.04024659088734683,
+      "lemma_e4_2_bound": 2.0,
+      "lemma_e4_2_holds": true
+    },
+    {
+      "p": 0.1,
+      "lam": 0.35,
+      "mean_b_over_history": 0.0,
+      "lemma_e4_1_holds": true,
+      "max_beta_observed": 0.1544674366354384,
+      "mean_beta_observed": 0.07035196091068165,
+      "lemma_e4_2_bound": 3.4999999999999996,
+      "lemma_e4_2_holds": true
+    },
+    {
+      "p": 0.1,
+      "lam": 0.5,
+      "mean_b_over_history": 6.938893903907228e-18,
+      "lemma_e4_1_holds": true,
+      "max_beta_observed": 0.23912863647984944,
+      "mean_beta_observed": 0.10123099793889055,
+      "lemma_e4_2_bound": 5.0,
+      "lemma_e4_2_holds": true
+    },
+    {
+      "p": 0.2,
+      "lam": 0.0,
+      "mean_b_over_history": 0.0,
+      "lemma_e4_1_holds": true,
+      "max_beta_observed": 0.0,
+      "mean_beta_observed": 0.0,
+      "lemma_e4_2_bound": 0.0,
+      "lemma_e4_2_holds": true
+    },
+    {
+      "p": 0.2,
+      "lam": 0.1,
+      "mean_b_over_history": 1.0408340855860843e-17,
+      "lemma_e4_1_holds": true,
+      "max_beta_observed": 0.029239518047253152,
+      "mean_beta_observed": 0.013311114369116403,
+      "lemma_e4_2_bound": 0.5,
+      "lemma_e4_2_holds": true
+    },
+    {
+      "p": 0.2,
+      "lam": 0.2,
+      "mean_b_over_history": 2.0816681711721685e-17,
+      "lemma_e4_1_holds": true,
+      "max_beta_observed": 0.0584011326931999,
+      "mean_beta_observed": 0.027005165821983503,
+      "lemma_e4_2_bound": 1.0,
+      "lemma_e4_2_holds": true
+    },
+    {
+      "p": 0.2,
+      "lam": 0.35,
+      "mean_b_over_history": -1.3877787807814457e-17,
+      "lemma_e4_1_holds": true,
+      "max_beta_observed": 0.1110748437336762,
+      "mean_beta_observed": 0.047098263856133415,
+      "lemma_e4_2_bound": 1.7499999999999998,
+      "lemma_e4_2_holds": true
+    },
+    {
+      "p": 0.2,
+      "lam": 0.5,
+      "mean_b_over_history": 0.0,
+      "lemma_e4_1_holds": true,
+      "max_beta_observed": 0.16381690304885896,
+      "mean_beta_observed": 0.06635824363047477,
+      "lemma_e4_2_bound": 2.5,
+      "lemma_e4_2_holds": true
+    },
+    {
+      "p": 0.5,
+      "lam": 0.0,
+      "mean_b_over_history": 0.0,
+      "lemma_e4_1_holds": true,
+      "max_beta_observed": 0.0,
+      "mean_beta_observed": 0.0,
+      "lemma_e4_2_bound": 0.0,
+      "lemma_e4_2_holds": true
+    },
+    {
+      "p": 0.5,
+      "lam": 0.1,
+      "mean_b_over_history": 2.7755575615628914e-17,
+      "lemma_e4_1_holds": true,
+      "max_beta_observed": 0.014640146895351721,
+      "mean_beta_observed": 0.006690146800577529,
+      "lemma_e4_2_bound": 0.2,
+      "lemma_e4_2_holds": true
+    },
+    {
+      "p": 0.5,
+      "lam": 0.2,
+      "mean_b_over_history": 0.0,
+      "lemma_e4_1_holds": true,
+      "max_beta_observed": 0.02864715168118861,
+      "mean_beta_observed": 0.013418416038674883,
+      "lemma_e4_2_bound": 0.4,
+      "lemma_e4_2_holds": true
+    },
+    {
+      "p": 0.5,
+      "lam": 0.35,
+      "mean_b_over_history": 2.7755575615628914e-17,
+      "lemma_e4_1_holds": true,
+      "max_beta_observed": 0.055194266641287994,
+      "mean_beta_observed": 0.023204636730390655,
+      "lemma_e4_2_bound": 0.7,
+      "lemma_e4_2_holds": true
+    },
+    {
+      "p": 0.5,
+      "lam": 0.5,
+      "mean_b_over_history": 0.0,
+      "lemma_e4_1_holds": true,
+      "max_beta_observed": 0.07440306289560798,
+      "mean_beta_observed": 0.03334785065892689,
+      "lemma_e4_2_bound": 1.0,
+      "lemma_e4_2_holds": true
+    }
+  ],
+  "check3": [
+    {
+      "p": 0.2,
+      "lam": 0.0,
+      "emp_var": 0.019935765342094017,
+      "theory_var_ind": 0.02,
+      "rel_err": 0.003211732895299149
+    },
+    {
+      "p": 0.2,
+      "lam": 0.3,
+      "emp_var": 0.019988801867437723,
+      "theory_var_ind": 0.02,
+      "rel_err": 0.0005599066281138793
+    },
+    {
+      "p": 0.2,
+      "lam": 0.5,
+      "emp_var": 0.020006779993165965,
+      "theory_var_ind": 0.02,
+      "rel_err": 0.000338999658298228
+    },
+    {
+      "p": 0.5,
+      "lam": 0.0,
+      "emp_var": 0.004999892649438168,
+      "theory_var_ind": 0.005,
+      "rel_err": 2.1470112366445138e-05
+    },
+    {
+      "p": 0.5,
+      "lam": 0.3,
+      "emp_var": 0.004965319225802112,
+      "theory_var_ind": 0.005,
+      "rel_err": 0.006936154839577539
+    },
+    {
+      "p": 0.5,
+      "lam": 0.5,
+      "emp_var": 0.005086587588042368,
+      "theory_var_ind": 0.005,
+      "rel_err": 0.017317517608473644
+    }
+  ],
+  "check4": {
+    "results": [
+      {
+        "lam": 0.0,
+        "seed": 0,
+        "final_cumavg_gap": 0.0026775360325437527,
+        "last30_mean": 0.002705165973022263
+      },
+      {
+        "lam": 0.0,
+        "seed": 1,
+        "final_cumavg_gap": 0.002899376468293995,
+        "last30_mean": 0.0025301213785558973
+      },
+      {
+        "lam": 0.2,
+        "seed": 0,
+        "final_cumavg_gap": 0.0038291627183670747,
+        "last30_mean": 0.004969721935984866
+      },
+      {
+        "lam": 0.2,
+        "seed": 1,
+        "final_cumavg_gap": 0.003922736652550508,
+        "last30_mean": 0.0038386687348507097
+      },
+      {
+        "lam": 0.4,
+        "seed": 0,
+        "final_cumavg_gap": 0.004586438162001744,
+        "last30_mean": 0.0053558299289330515
+      },
+      {
+        "lam": 0.4,
+        "seed": 1,
+        "final_cumavg_gap": 0.00534660716614237,
+        "last30_mean": 0.004585319615400593
+      }
+    ],
+    "predicted_extra": {
+      "0.0": 0.0,
+      "0.2": 0.16000000000000003,
+      "0.4": 0.6400000000000001
+    },
+    "L": 1.2555720519278166
+  }
+}

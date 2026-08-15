@@ -1,0 +1,19 @@
+{
+  "source": "FLASH (Yang et al., WWW'21), github.com/PKU-Chengxu/FLASH, data/state_traces.json, BSD-2-Clause",
+  "resample_minutes": 30,
+  "window": [
+    "2020-01-29 00:00:00",
+    "2020-02-03 00:00:00"
+  ],
+  "T": 241,
+  "N": 723,
+  "mean_valid_frac_per_device": 0.8081931555356598,
+  "p_hat": 0.081187598528639,
+  "rho_bar_hat": 0.0941843152245632,
+  "n_pairs_used_for_rho_bar": 247292,
+  "lambda_hat": 0.5767978136553085,
+  "n_devices_used_for_lambda": 512,
+  "one_over_N": 0.0013831258644536654,
+  "rho_bar_over_one_over_N": 68.09525990735919,
+  "inflation_factor_1_plus_N_minus_1_rho": 69.00107559213464
+}

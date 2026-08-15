@@ -1,0 +1,19 @@
+{
+  "n_pathA_configs": 30,
+  "pathA_tightening_factor_min": 1.001571752448183,
+  "pathA_tightening_factor_max": 1.1173821774674653,
+  "pathA_tightening_factor_mean": 1.0321061953433406,
+  "n_pathB_configs": 210,
+  "manuscript_illustration": {
+    "d": 100,
+    "eps_acc": 0.5,
+    "eps_p": 8.0,
+    "delta": 1e-05,
+    "p": 0.5,
+    "LD": 10.0,
+    "N_star_manuscript_basic": 15254.641414664406,
+    "N_star_pathA_tight": 13015.158841746617,
+    "ratio": 1.1720672486711852
+  },
+  "wall_clock_seconds": 108.29768323898315
+}
